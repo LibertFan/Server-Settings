@@ -8,7 +8,7 @@
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/XShellHost.png" width='400'/>
 
-在**名称**可以随意输入
+**名称**可以随意输入
 
 **主机**输入从管理员处拿到的IP
 
