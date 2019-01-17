@@ -54,6 +54,11 @@ ping www.baidu.com
 ```
 bash AnacondaXXXX.sh
 ```
+在安装的最后一步是否要把anaconda下的python作为自己的默认python，选择yes。
+
+这一步操作会将anaconda下的python路径添加到**/home/你的账户/.bahsrc**下。
+
+
 
 ## 3.
 
