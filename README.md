@@ -1,95 +1,95 @@
 # Server-Settings For Windows
-## 1.å‘½ä»¤è¡Œä»£ç 
-ä¸‹è½½å…è´¹ç‰ˆXShell: https://www.netsarang.com/zh/free-for-home-school/
+## 1.ÃüÁîÐÐ´úÂë
+ÏÂÔØÃâ·Ñ°æXShell: https://www.netsarang.com/zh/free-for-home-school/
 
-å®‰è£…ä¹‹åŽç‚¹å‡»å·¦ä¸Šè§’ **æ–‡ä»¶ -> æ–°å»º**
+°²×°Ö®ºóµã»÷×óÉÏ½Ç **ÎÄ¼þ -> ÐÂ½¨**
 
-ç‚¹å‡»**è¿žæŽ¥**
+µã»÷**Á¬½Ó**
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/XShellHost.png" width='400'/>
 
-åœ¨**åç§°**å¯ä»¥éšæ„è¾“å…¥
+ÔÚ**Ãû³Æ**¿ÉÒÔËæÒâÊäÈë
 
-**ä¸»æœº**è¾“å…¥ä»Žç®¡ç†å‘˜å¤„æ‹¿åˆ°çš„IP
+**Ö÷»ú**ÊäÈë´Ó¹ÜÀíÔ±´¦ÄÃµ½µÄIP
 
-**ç«¯å£å·**é™¤ç‰¹åˆ«æƒ…å†µï¼ˆä¼šå¦è¡ŒçŸ¥ä¼šï¼‰éƒ½æ˜¯22
+**¶Ë¿ÚºÅ**³ýÌØ±ðÇé¿ö£¨»áÁíÐÐÖª»á£©¶¼ÊÇ22
 
-ç‚¹å‡»**ç”¨æˆ·èº«ä»½éªŒè¯**
+µã»÷**ÓÃ»§Éí·ÝÑéÖ¤**
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/XShellUserPasswd.png" width='400'/>
 
-**ç”¨æˆ·å**è¾“å…¥ä»Žç®¡ç†å‘˜å¤„æ‹¿åˆ°çš„ç”¨æˆ·å
+**ÓÃ»§Ãû**ÊäÈë´Ó¹ÜÀíÔ±´¦ÄÃµ½µÄÓÃ»§Ãû
 
-**å¯†ç **è¾“å…¥ä»Žç®¡ç†å‘˜å¤„æ‹¿åˆ°çš„å¯†ç 
+**ÃÜÂë**ÊäÈë´Ó¹ÜÀíÔ±´¦ÄÃµ½µÄÃÜÂë
 
-## 2.é…ç½®è‡ªå·±çš„æœåŠ¡å™¨çŽ¯å¢ƒ
+## 2.ÅäÖÃ×Ô¼ºµÄ·þÎñÆ÷»·¾³
 
-### 2.1.ä½¿ç”¨ç½‘ç»œ
-åœ¨è‡ªå·±çš„ç”µè„‘ä¸Šä½¿ç”¨ç¼–è¾‘å™¨æ‰“å¼€**FUDAN.py**
+### 2.1.Ê¹ÓÃÍøÂç
+ÔÚ×Ô¼ºµÄµçÄÔÉÏÊ¹ÓÃ±à¼­Æ÷´ò¿ª**FUDAN.py**
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/Fudan.png" width='400'/>
 
-åœ¨18ï¼Œ19è¡Œçš„**ä½ çš„å­¦å·**å’Œ**ä½ çš„å¯†ç **å¤„è¾“å…¥è‡ªå·±çš„å¤æ—¦å­¦å·å’Œå¯†ç ã€‚
+ÔÚ18£¬19ÐÐµÄ**ÄãµÄÑ§ºÅ**ºÍ**ÄãµÄÃÜÂë**´¦ÊäÈë×Ô¼ºµÄ¸´µ©Ñ§ºÅºÍÃÜÂë¡£
 
-ä½¿ç”¨WinSCPå°†Fudan.pyæ–‡ä»¶ä¸Šä¼ åˆ°æœåŠ¡å™¨è‡ªå·±çš„æ–‡ä»¶å¤¹*/home/ä½ çš„è´¦æˆ·*ä¸‹ã€‚
+Ê¹ÓÃWinSCP½«Fudan.pyÎÄ¼þÉÏ´«µ½·þÎñÆ÷×Ô¼ºµÄÎÄ¼þ¼Ð*/home/ÄãµÄÕË»§*ÏÂ¡£
 
-ä½¿ç”¨XShellé“¾æŽ¥åˆ°æœåŠ¡å™¨ã€‚è¿è¡Œå¦‚ä¸‹ä»£ç :
+Ê¹ÓÃXShellÁ´½Óµ½·þÎñÆ÷¡£ÔËÐÐÈçÏÂ´úÂë:
 ```
 python2 FUDAN.py
 ```
 
-ç­‰ä¸‰åç§’é’Ÿä¹‹åŽï¼Œä½¿ç”¨**Ctrl+C**åœæ­¢ç¨‹åºã€‚
+µÈÈýÊ®ÃëÖÓÖ®ºó£¬Ê¹ÓÃ**Ctrl+C**Í£Ö¹³ÌÐò¡£
 
-ä½¿ç”¨å¦‚ä¸‹ä»£ç æ¥æ£€æŸ¥æ˜¯å¦è¿žæŽ¥åˆ°ç½‘ç»œ:
+Ê¹ÓÃÈçÏÂ´úÂëÀ´¼ì²éÊÇ·ñÁ¬½Óµ½ÍøÂç:
 
 ```
 ping www.baidu.com
 ```
-å¦‚æžœå‡ºçŽ°ä¸‹é¢çš„æƒ…å†µï¼Œè¯´æ˜Žä½ å·²ç»æˆåŠŸè¿žæŽ¥åˆ°ç½‘ç»œï¼ˆå¦åˆ™è¯·è”ç³»ç®¡ç†å‘˜ï¼‰ã€‚ä½¿ç”¨**Ctrl+C**åœæ­¢ç¨‹åºã€‚
+Èç¹û³öÏÖÏÂÃæµÄÇé¿ö£¬ËµÃ÷ÄãÒÑ¾­³É¹¦Á¬½Óµ½ÍøÂç£¨·ñÔòÇëÁªÏµ¹ÜÀíÔ±£©¡£Ê¹ÓÃ**Ctrl+C**Í£Ö¹³ÌÐò¡£
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/FudanSuccess.png" width='200'/>
 
-### 2.2.ä¸‹è½½Ananconda
-ä¸‹è½½æœ€æ–°ç‰ˆçš„Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
+### 2.2.ÏÂÔØAnanconda
+ÏÂÔØ×îÐÂ°æµÄAnaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 
-æ‰¾åˆ°è‡ªå·±çš„è¦ä¸‹è½½çš„Anacondaç‰ˆæœ¬ï¼Œå³é”®æ‹·è´é“¾æŽ¥
+ÕÒµ½×Ô¼ºµÄÒªÏÂÔØµÄAnaconda°æ±¾£¬ÓÒ¼ü¿½±´Á´½Ó
 
-ä½¿ç”¨ä¸‹é¢çš„ä»£ç ç›´æŽ¥ä¸‹è½½åˆ°æœåŠ¡å™¨ä¸Šï¼š
+Ê¹ÓÃÏÂÃæµÄ´úÂëÖ±½ÓÏÂÔØµ½·þÎñÆ÷ÉÏ£º
 ```
 wget url
 ```
 
-### 2.3.å®‰è£…Anaconda
-ä½¿ç”¨ä¸‹é¢ä»£ç æ¥è¿è¡Œä¸Šä¸€æ­¥ä¸‹è½½çš„æ–‡ä»¶
+### 2.3.°²×°Anaconda
+Ê¹ÓÃÏÂÃæ´úÂëÀ´ÔËÐÐÉÏÒ»²½ÏÂÔØµÄÎÄ¼þ
 ```
 bash AnacondaXXXX.sh
 ```
-åœ¨å®‰è£…çš„æœ€åŽä¸€æ­¥æ˜¯å¦è¦æŠŠanacondaä¸‹çš„pythonä½œä¸ºè‡ªå·±çš„é»˜è®¤pythonï¼Œé€‰æ‹©yesã€‚è¿™ä¸€æ­¥æ“ä½œä¼šå°†anacondaä¸‹çš„pythonè·¯å¾„æ·»åŠ åˆ° ~/.bashrc ä¸‹ã€‚
+ÔÚ°²×°µÄ×îºóÒ»²½ÊÇ·ñÒª°ÑanacondaÏÂµÄpython×÷Îª×Ô¼ºµÄÄ¬ÈÏpython£¬Ñ¡Ôñyes¡£ÕâÒ»²½²Ù×÷»á½«anacondaÏÂµÄpythonÂ·¾¶Ìí¼Óµ½ ~/.bashrc ÏÂ¡£
 
 ```
 vim ~/.bashrc** 
 ```
-ä½¿ç”¨ä¸Šé¢çš„ä»£ç æ¥æŸ¥çœ‹è·¯å¾„æ˜¯å¦æ·»åŠ æˆåŠŸï¼ˆåœ¨æ–‡ä»¶æœ«å°¾ï¼‰ï¼Œå¦‚ä¸‹å›¾æ‰€ç¤ºã€‚å¦‚æžœæ²¡æœ‰æ‰¾åˆ°ï¼Œå¯ä»¥è‡ªå·±æŒ‰ç…§ä¸‹å›¾æ¥åœ¨ ~/.bashrc å½“ä¸­åŠ å…¥ï¼ˆæ³¨æ„è‡ªå·±ä¸‹è½½çš„anacondaçš„ç‰ˆæœ¬å·ï¼‰ã€‚ä½¿ç”¨**Esc -> :q**æ¥é€€å‡ºvimã€‚
+Ê¹ÓÃÉÏÃæµÄ´úÂëÀ´²é¿´Â·¾¶ÊÇ·ñÌí¼Ó³É¹¦£¨ÔÚÎÄ¼þÄ©Î²£©£¬ÈçÏÂÍ¼ËùÊ¾¡£Èç¹ûÃ»ÓÐÕÒµ½£¬¿ÉÒÔ×Ô¼º°´ÕÕÏÂÍ¼À´ÔÚ ~/.bashrc µ±ÖÐ¼ÓÈë£¨×¢Òâ×Ô¼ºÏÂÔØµÄanacondaµÄ°æ±¾ºÅ£©¡£Ê¹ÓÃ**Esc -> :q**À´ÍË³övim¡£
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/BashAnaconda.png" width='200'/>
 
-å¦‚æžœæ·»åŠ æˆåŠŸï¼Œè¿è¡Œ**source ~/.bashrc**æ¥ä½¿è·¯å¾„ç”Ÿæ•ˆã€‚
+Èç¹ûÌí¼Ó³É¹¦£¬ÔËÐÐ**source ~/.bashrc**À´Ê¹Â·¾¶ÉúÐ§¡£
 
-åœ¨å‘½ä»¤è¡Œå½“ä¸­è¾“å…¥
+ÔÚÃüÁîÐÐµ±ÖÐÊäÈë
 ```
 python
 ```
-æ¥æ£€æŸ¥è‡ªå·±çš„pythonç‰ˆæœ¬ï¼Œå¦‚æžœå‡ºçŽ°anacondaçš„å­—æ ·ï¼ˆå¦‚ä¸‹å›¾æ‰€ç¤ºï¼‰ï¼Œè¯´æ˜Žå®‰è£…å·²ç»æˆåŠŸã€‚
+À´¼ì²é×Ô¼ºµÄpython°æ±¾£¬Èç¹û³öÏÖanacondaµÄ×ÖÑù£¨ÈçÏÂÍ¼ËùÊ¾£©£¬ËµÃ÷°²×°ÒÑ¾­³É¹¦¡£
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PythonVersion.png" width='200'/>
 
-### 2.4.å®‰è£…ç¥žç»ç½‘ç»œçš„pythonåŒ…
-ä½¿ç”¨ä¸‹é¢çš„å‘½ä»¤è¡Œä»£ç æ¥æŸ¥çœ‹æœåŠ¡å™¨çš„**CUDAç‰ˆæœ¬**ã€‚
+### 2.4.°²×°Éñ¾­ÍøÂçµÄpython°ü
+Ê¹ÓÃÏÂÃæµÄÃüÁîÐÐ´úÂëÀ´²é¿´·þÎñÆ÷µÄ**CUDA°æ±¾**¡£
 ```
 nvcc -V
 ```
 
-æŒ‰ç…§pytrorchçš„æ•™ç¨‹æˆ–è€…tensorflowçš„æ•™ç¨‹æ¥å®Œæˆå®‰è£…
+°´ÕÕpytrorchµÄ½Ì³Ì»òÕßtensorflowµÄ½Ì³ÌÀ´Íê³É°²×°
 
 ## 3.
 
