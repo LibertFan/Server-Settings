@@ -98,6 +98,30 @@ Pytorch 安装教程地址 https://pytorch.org/get-started/locally/
 ### 2.5.tmux 环境配置
 为了在后台跑程序和同时运行多个程序，建议使用tmux。服务器上都已经安装tmux，具体的配置请参考 https://github.com/gpakosz/.tmux 
 
-## 3.
+## 3.Pycharm
 
-## 4.
+### 3.1.下载 pycharm professional
+pycharm professional 教育版的下载链接 https://www.jetbrains.com/pycharm-edu/download/#section=windows
+
+### 3.2.设置项目Interpreter
+安装完成之后点击**File -> Settings**来配置项目的Interperter，界面如下图所示
+
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PycharmInterpreter.png" width='500'/>
+
+点击**右上角的小齿轮* -> Add -> SSH Interpter*
+
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PycharmAdd.png" width='500'/>
+
+在右侧输入服务器的IP和自己的账号，点击Next，输入Next，在点击Next。
+
+在Interperter当中选择自己anaconda下的python路径，一般路径为 **anancodna文件夹/bin/python**
+
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PycharmPythonPath.png" width='500'/>
+
+### 3.3.设置项目文件映射
+
+1.在Settings的界面，通过Path mappings来设置。
+
+2.点击**Tools -> Deployment -> Configuration**来设置文件映射。
+
+
