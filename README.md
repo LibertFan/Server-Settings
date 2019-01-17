@@ -97,6 +97,14 @@ Pytorch 安装教程地址 https://pytorch.org/get-started/locally/
 
 ### 2.5.tmux 环境配置
 为了在后台跑程序和同时运行多个程序，建议使用tmux。服务器上都已经安装tmux，具体的配置请参考 https://github.com/gpakosz/.tmux 
+``
+tmux ls # 查看当前的tmux会话
+tmux new # 开启新的tmux会话
+tmux attach -t **number** # 链接到第number个tmux会话
+Ctrl+b m # 在tmux会话当中使用开启鼠标
+Ctrl+b c # 在tmux会话当中打开新的窗口
+Ctrl+b & # 在tmux会话当中关闭窗口
+```
 
 ## 3.Pycharm
 
