@@ -42,7 +42,6 @@ python2 FUDAN.py
 
 使用如下代码来检查是否连接到网络:
 
-### 2.2.下载Ananconda
 ```
 ping www.baidu.com
 ```
@@ -50,17 +49,22 @@ ping www.baidu.com
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/FudanSuccess.png" width='200'/>
 
-
+### 2.2.下载Ananconda
 下载最新版的Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 
+找到自己的要下载的Anaconda版本，右键拷贝链接
 
-### 2.3安装Anaconda
+使用下面的代码直接下载到服务器上：
+```
+wget url
+```
+
+### 2.3.安装Anaconda
+使用下面代码来运行上一步下载的文件
 ```
 bash AnacondaXXXX.sh
 ```
-在安装的最后一步是否要把anaconda下的python作为自己的默认python，选择yes。
-
-这一步操作会将anaconda下的python路径添加到 ~/.bashrc 下。
+在安装的最后一步是否要把anaconda下的python作为自己的默认python，选择yes。这一步操作会将anaconda下的python路径添加到 ~/.bashrc 下。
 
 ```
 vim ~/.bashrc** 
@@ -78,6 +82,14 @@ python
 来检查自己的python版本，如果出现anaconda的字样（如下图所示），说明安装已经成功。
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PythonVersion.png" width='200'/>
+
+### 2.4.安装神经网络的python包
+使用下面的命令行代码来查看服务器的**CUDA版本**。
+```
+nvcc -V
+```
+
+按照pytrorch的教程或者tensorflow的教程来完成安装
 
 ## 3.
 
