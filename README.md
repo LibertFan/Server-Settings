@@ -120,7 +120,7 @@ pycharm professional 教育版的下载链接 https://www.jetbrains.com/pycharm-
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PycharmAdd.png" width='500'/>
 
-在右侧输入服务器的IP和自己的账号，点击Next，输入Next，在点击Next。
+在右侧输入服务器的IP和自己的账号，点击Next，输入自己的服务器密码，在点击Next。
 
 在Interperter当中选择自己anaconda下的python路径，一般路径为 **anancodna文件夹/bin/python**
 
