@@ -24,12 +24,29 @@
 
 ## 2.配置自己的服务器环境
 
-使用XShell链接到服务器。
-
 **使用网络**
+在自己的电脑上使用编辑器打开**
 
-讲Fudan.py文件
 
+使用WinSCP将Fudan.py文件上传到服务器自己的文件夹下。
+
+使用如下代码运行:
+
+```
+python2 FUDAN.py
+```
+
+等三十秒钟之后，使用**Ctrl+C**停止程序。
+
+使用如下代码来检查是否连接到网络:
+
+```
+ping www.baidu.com
+```
+如果出现下面的情况，说明你已经成功连接到网络（否则请联系管理员）。使用**Ctrl+C**停止程序。
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/FudanSuccess.png" width='200'/>
+
+使用XShell链接到服务器。
 
 
 下载最新版的Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
