@@ -25,8 +25,11 @@
 ## 2.配置自己的服务器环境
 
 **使用网络**
-在自己的电脑上使用编辑器打开**
+在自己的电脑上使用编辑器打开**FUDAN.py**
 
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/Fudan.png" width='400'/>
+
+在18，19行的**你的学号**和**你的密码**处输入自己的复旦学号和密码。
 
 使用WinSCP将Fudan.py文件上传到服务器自己的文件夹下。
 
@@ -53,7 +56,7 @@ ping www.baidu.com
 
 ```
 bash AnacondaXXXX.sh
-'''
+```
 
 ## 3.
 
