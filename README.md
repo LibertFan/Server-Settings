@@ -116,7 +116,7 @@ pycharm professional 教育版的下载链接 https://www.jetbrains.com/pycharm-
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PycharmInterpreter.png" width='500'/>
 
-点击**右上角的小齿轮* -> Add -> SSH Interpter*
+点击**右上角的小齿轮 -> Add -> SSH Interpter**
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PycharmAdd.png" width='500'/>
 
