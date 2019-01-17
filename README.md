@@ -24,7 +24,7 @@
 
 ## 2.配置自己的服务器环境
 
-### 2.1 使用网络
+### 2.1.使用网络
 在自己的电脑上使用编辑器打开**FUDAN.py**
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/Fudan.png" width='400'/>
@@ -42,7 +42,7 @@ python2 FUDAN.py
 
 使用如下代码来检查是否连接到网络:
 
-### 2.2 下载Ananconda
+### 2.2.下载Ananconda
 ```
 ping www.baidu.com
 ```
@@ -54,7 +54,7 @@ ping www.baidu.com
 下载最新版的Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 
 
-### 2.3 安装
+### 2.3安装Anaconda
 ```
 bash AnacondaXXXX.sh
 ```
