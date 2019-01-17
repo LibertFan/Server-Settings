@@ -56,7 +56,15 @@ bash AnacondaXXXX.sh
 ```
 在安装的最后一步是否要把anaconda下的python作为自己的默认python，选择yes。
 
-这一步操作会将anaconda下的python路径添加到**/home/你的账户/.bahsrc**下。
+这一步操作会将anaconda下的python路径添加到** ~/.bashrc**下。
+
+使用如下代码**vim ~/.bashrc** 来查看路径是否添加成功（在文件末尾），如下图所示。如果没有找到，可以自己按照下图来在**~/.bashrc**当中加入（注意自己下载的anaconda的版本号）。使用**Esc -> :q**来退出vim。
+
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/BashAnaconda.png" width='200'/>
+
+如果添加成功，运行**source ~/.bashrc**来使路径生效。
+
+在命令行当中
 
 
 
