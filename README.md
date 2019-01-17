@@ -1,6 +1,7 @@
 # Server-Settings For Windows
 ## 1.命令行代码
 下载免费版XShell: https://www.netsarang.com/zh/free-for-home-school/
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/XShellHost.png" width='200'/>
 
 ![](./img/XShellHost.png){:height="100px" width="400px"}
 
