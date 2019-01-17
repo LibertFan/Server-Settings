@@ -47,7 +47,7 @@ ping www.baidu.com
 ```
 如果出现下面的情况，说明你已经成功连接到网络（否则请联系管理员）。使用**Ctrl+C**停止程序。
 
-<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/FudanSuccess.png" width='400'/>
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/FudanSuccess.png" width='500'/>
 
 ### 2.2.下载Ananconda
 下载最新版的Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
@@ -81,7 +81,7 @@ python
 ```
 来检查自己的python版本，如果出现anaconda的字样（如下图所示），说明安装已经成功。
 
-<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PythonVersion.png" width='400'/>
+<img src="https://github.com/LibertFan/Server-Settings/blob/master/img/PythonVersion.png" width='500'/>
 
 ### 2.4.安装神经网络的python包
 使用下面的命令行代码来查看服务器的**CUDA版本**。
