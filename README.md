@@ -52,7 +52,7 @@ ping www.baidu.com
 ### 2.2.下载Ananconda
 下载最新版的Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 
-找到自己的要下载的Anaconda版本，右键拷贝链接
+找到自己的要下载的Anaconda版本，右键拷贝url
 
 使用下面的代码直接下载到服务器上：
 ```
@@ -89,7 +89,10 @@ python
 nvcc -V
 ```
 
-按照pytrorch的教程或者tensorflow的教程来完成安装
+按照pytrorch的教程或者tensorflow的教程来完成安装。
+
+### 2.5.tmux 环境配置
+为了在后台跑程序和同时运行多个程序，建议使用tmux。服务器上都已经安装tmux，具体的配置请参考 https://github.com/gpakosz/.tmux 
 
 ## 3.
 
