@@ -31,10 +31,9 @@
 
 在18，19行的**你的学号**和**你的密码**处输入自己的复旦学号和密码。
 
-使用WinSCP将Fudan.py文件上传到服务器自己的文件夹下。
+使用WinSCP将Fudan.py文件上传到服务器自己的文件夹*/home/你的账户*下。
 
-使用如下代码运行:
-
+使用XShell链接到服务器。运行如下代码:
 ```
 python2 FUDAN.py
 ```
@@ -48,8 +47,6 @@ ping www.baidu.com
 ```
 如果出现下面的情况，说明你已经成功连接到网络（否则请联系管理员）。使用**Ctrl+C**停止程序。
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/FudanSuccess.png" width='200'/>
-
-使用XShell链接到服务器。
 
 
 下载最新版的Anaconda: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
