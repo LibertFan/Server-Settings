@@ -91,6 +91,10 @@ nvcc -V
 
 按照pytrorch的教程或者tensorflow的教程来完成安装。
 
+Pytorch 安装教程地址 https://pytorch.org/get-started/locally/
+
+
+
 ### 2.5.tmux 环境配置
 为了在后台跑程序和同时运行多个程序，建议使用tmux。服务器上都已经安装tmux，具体的配置请参考 https://github.com/gpakosz/.tmux 
 
