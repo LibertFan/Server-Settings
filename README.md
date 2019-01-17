@@ -58,7 +58,10 @@ bash AnacondaXXXX.sh
 
 这一步操作会将anaconda下的python路径添加到 ~/.bashrc 下。
 
-使用如下代码**vim ~/.bashrc** 来查看路径是否添加成功（在文件末尾），如下图所示。如果没有找到，可以自己按照下图来在 ~/.bashrc 当中加入（注意自己下载的anaconda的版本号）。使用**Esc -> :q**来退出vim。
+```
+vim ~/.bashrc** 
+```
+使用上面的代码来查看路径是否添加成功（在文件末尾），如下图所示。如果没有找到，可以自己按照下图来在 ~/.bashrc 当中加入（注意自己下载的anaconda的版本号）。使用**Esc -> :q**来退出vim。
 
 <img src="https://github.com/LibertFan/Server-Settings/blob/master/img/BashAnaconda.png" width='200'/>
 
