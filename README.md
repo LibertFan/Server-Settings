@@ -109,7 +109,7 @@ Ctrl+b & # 在tmux会话当中关闭窗口
 ## 3.Pycharm
 
 ### 3.1.下载 pycharm professional
-pycharm professional 教育版的下载链接 https://www.jetbrains.com/pycharm-edu/download/#section=windows
+pycharm professional 教育免费版的下载链接 https://www.jetbrains.com/pycharm-edu/download/#section=windows
 
 ### 3.2.设置项目Interpreter
 安装完成之后点击**File -> Settings**来配置项目的Interperter，界面如下图所示
