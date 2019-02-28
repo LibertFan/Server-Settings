@@ -1,5 +1,5 @@
 # Server-Settings For Windows
-## 0.杀掉程序-
+## 0.杀掉程序-Ctrl+C
 
 ## 1.命令行代码
 下载免费版XShell: https://www.netsarang.com/zh/free-for-home-school/
